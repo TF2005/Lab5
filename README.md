@@ -6,10 +6,10 @@ The data comes from the Open-Meteo API (geocoding + forecasts). No API key is re
 
 ## Installation and Launch
 
-1. Open a terminal in the project folder.
+1. Open a Command Prompt in the project folder.
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm run dev`
-4. Open: http://localhost:5173/
+4. Open (CTRL + click): http://localhost:5173/
 
 ## Project Structure
 
